@@ -1,4 +1,5 @@
 # datascience_hadoop
+## [학번] / [이름]
 데이터과학 3번재 실습 Hadoop
 
 ## 실습 내용
