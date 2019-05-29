@@ -9,6 +9,11 @@ $ chmod +x makebible.sh
 $ ./makebible.sh
 ```
 
+- Hadoop Standalone
+    - user : hadoop
+    - pw : hellocse
+    - ip : 192.168.56.100
+
 ## 실습 내용
 - Hadoop Standalone 설정
     - MapReduce
